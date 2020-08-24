@@ -1,4 +1,4 @@
-# Daily Interview Question Reviews
+# Daily Code Challenges
 
 Sources:
 
