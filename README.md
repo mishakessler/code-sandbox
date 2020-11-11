@@ -1,7 +1,3 @@
-# Daily Interview Question Reviews
-
-Sources:
-
-- [FullStack Cafe](https://www.fullstack.cafe/)
+# Daily Code Challenges
 
 Additional subject- or language-specific sources included in `.md` documents.
